@@ -27,3 +27,4 @@ if st.button("绘制"):
         st.pyplot(fig)
     except Exception as e:
         st.write(f"错误: {e}")
+print("done")
